@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Ralex999 👋
 
-<!--
-**Ralex999/Ralex999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Tech & DIY Enthusiast | Crypto Explorer | Network Security
 
-Here are some ideas to get you started:
+- 🔧 **Hardware:** Advanced component-level repair, power system modifications, and DIY electronics.
+- 🌐 **Networking:** Experienced with Tailscale, AmneziaVPN, and secure mesh networks.
+- ⚡ **Current Focus:** Hardware monitoring (HWiNFO) and optimizing power-efficient systems.
+- ⛓️ **Web3:** Exploring Solana ecosystem, TON blockchain, and decentralized protocols.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 My Activity
+- 🔭 Starred projects: Solana, Babylon, Tailscale, Delta Chat.
+- 🌱 Learning: Decentralized infrastructure and smart contract security.
+
+---
+
+### 🤝 Connect with me
+- 🐦 Tweeting about tech & future of mobility.
+- 🛰️ Active in decentralized communication communities.
